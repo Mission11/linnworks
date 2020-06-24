@@ -1,6 +1,6 @@
 <?php
 
-namespace Booni3\Linnworks;
+namespace Mission11\Linnworks;
 
 use Illuminate\Support\ServiceProvider;
 

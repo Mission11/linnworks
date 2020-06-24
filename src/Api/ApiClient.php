@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Booni3\Linnworks\Api;
+namespace Mission11\Linnworks\Api;
 
-use Booni3\Linnworks\Exceptions\LinnworksResponseCouldNotBeParsed;
+use Mission11\Linnworks\Exceptions\LinnworksResponseCouldNotBeParsed;
 use GuzzleHttp\Client;
 
 class ApiClient

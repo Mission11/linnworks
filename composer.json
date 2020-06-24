@@ -1,10 +1,10 @@
 {
-    "name": "booni3/linnworks",
+    "name": "mission11/linnworks",
     "description": "Linnworks API wrapper",
     "license": "MIT",
     "authors": [
         {
-            "name": "Booni3",
+            "name": "Mission11",
             "email": "adam@profilestudio.com"
         }
     ],
@@ -16,21 +16,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Booni3\\Linnworks\\": "src"
+            "Mission11\\Linnworks\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Booni3\\Linnworks\\Tests\\": "tests"
+            "Mission11\\Linnworks\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Booni3\\Linnworks\\LinnworksServiceProvider"
+                "Mission11\\Linnworks\\LinnworksServiceProvider"
             ],
             "aliases": {
-                "Linnworks": "Booni3\\Linnworks\\LinnworksFacade"
+                "Linnworks": "Mission11\\Linnworks\\LinnworksFacade"
             }
         }
     },

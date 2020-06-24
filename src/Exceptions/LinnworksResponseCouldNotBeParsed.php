@@ -1,6 +1,6 @@
 <?php
 
-namespace Booni3\Linnworks\Exceptions;
+namespace Mission11\Linnworks\Exceptions;
 
 use Exception;
 

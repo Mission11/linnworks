@@ -1,6 +1,6 @@
 <?php
 
-namespace Booni3\Linnworks\Api;
+namespace Mission11\Linnworks\Api;
 
 class PostalServices extends ApiClient
 {

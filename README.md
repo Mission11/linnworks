@@ -6,7 +6,7 @@ Wrapper for the Linnworks API, as documented at [http://apps.linnworks.net/Api](
 
 ## Install
 
-    composer require booni3/linnworks
+    composer require mission11/linnworks
 
 ## Usage
         

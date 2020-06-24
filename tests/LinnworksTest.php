@@ -1,10 +1,10 @@
 <?php
 
-namespace Booni3\Linnworks\Tests;
+namespace Mission11\Linnworks\Tests;
 
-use Booni3\Linnworks\Exceptions\LinnworksAuthenticationException;
-use Booni3\Linnworks\Exceptions\LinnworksResponseCouldNotBeParsed;
-use Booni3\Linnworks\Linnworks;
+use Mission11\Linnworks\Exceptions\LinnworksAuthenticationException;
+use Mission11\Linnworks\Exceptions\LinnworksResponseCouldNotBeParsed;
+use Mission11\Linnworks\Linnworks;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;

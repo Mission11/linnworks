@@ -1,14 +1,14 @@
 <?php
 
-namespace Booni3\Linnworks;
+namespace Mission11\Linnworks;
 
-use Booni3\Linnworks\Api\Auth;
-use Booni3\Linnworks\Api\Locations;
-use Booni3\Linnworks\Api\Orders;
-use Booni3\Linnworks\Api\PostalServices;
-use Booni3\Linnworks\Api\ReturnsRefunds;
-use Booni3\Linnworks\Api\Stock;
-use Booni3\Linnworks\Exceptions\LinnworksAuthenticationException;
+use Mission11\Linnworks\Api\Auth;
+use Mission11\Linnworks\Api\Locations;
+use Mission11\Linnworks\Api\Orders;
+use Mission11\Linnworks\Api\PostalServices;
+use Mission11\Linnworks\Api\ReturnsRefunds;
+use Mission11\Linnworks\Api\Stock;
+use Mission11\Linnworks\Exceptions\LinnworksAuthenticationException;
 use GuzzleHttp\Client as GuzzleClient;
 
 class Linnworks
